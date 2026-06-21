@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "e.g.com.firestudio.cubecraft",
+        "sha256_cert_fingerprints": ["49:50:1F:1F:18:C4:35:D5:F6:0F:BF:93:78:86:32:77:3B:42:63:35:D0:A6:10:37:AA:E9:06:81:C6:49:9B:0C"]
+      }
+    }]
